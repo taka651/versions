@@ -3,6 +3,7 @@
 
 now=$(date +"%m_%d_%Y")
 FILE="/tmp/softwarecheck.log"
+
 app_name="Safari"
 app_path="/Applications/$app_name.app"
 desired_version="13604.4.7.1.6"
