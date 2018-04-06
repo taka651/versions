@@ -14,7 +14,7 @@ echo $version_line
 if [[ $? -ne 0 ]]; then
     version_line=$(plutil -p "${app_path}/Contents/Info.plist" | grep "CFBundleShortVersionString")
     if [[ $? -ne 0 ]]; then #if it failed again, the app is not installed at that path
-        echo "$app_path not installed at all"
+        echo "$app_path not installed at all sdf"
         exit 123456
     fi
 fi
