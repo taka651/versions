@@ -17,6 +17,7 @@ if [[ $? -ne 0 ]]; then
         exit 123456
     fi
 fi
+
 #Some text editing to get the real version number
 real_version=$(echo $version_line | grep -o '"[[:digit:].]*"' | sed 's/"//g')
 if [ "$real_version" == "$desired_version" ]; then
