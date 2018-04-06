@@ -1,0 +1,7 @@
+New-MailContact -Name "Shahbaz Siddiqui (Fujitsu)" -ExternalEmailAddress "shahbaz.siddiqui@in.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
+New-MailContact -Name "Ramaswamy Subramanian (Fujitsu)" -ExternalEmailAddress "ramaswamy.subramanian@us.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
+New-MailContact -Name "Praveen Binduaa (Fujitsu)" -ExternalEmailAddress "praveen.binduaa@in.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
+New-MailContact -Name "Nitin Chaudhary (Fujitsu)" -ExternalEmailAddress "nitin.chaudhary@in.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
+New-MailContact -Name "Manas Nayak (Fujitsu)" -ExternalEmailAddress "manas.nayak@in.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
+New-MailContact -Name "Jagruti Ankolekar (Fujitsu)" -ExternalEmailAddress "jagruti.ankolekar@in.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
+New-MailContact -Name "Pranita Lohkare (Fujitsu)" -ExternalEmailAddress "pranita.lohkare@in.fujitsu.com" -OrganizationalUnit "OU=CONTACTS,OU=MAILOBJECTS,OU=BodyBuilding,OU=Companies,DC=body,DC=local"
